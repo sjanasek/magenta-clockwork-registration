@@ -1,0 +1,93 @@
+{
+    "pageOne": {
+        "cookieInfo": "Diese Seite verwendet Cookies. Bei weiterem Browsen erkären Sie sich einverstanden.",
+        "cookieInfoDetail": "Mehr Details.",
+        "detailHeader": "Details",
+        "details": "Wir verwenden Cookies einerseits auf Basis von Art. 6 Abs. 1 f) DSGVO (berechtigtes Interesse an der Optimierung unserer Angebote). Bestimmte Cookies werden ausschließlich auf Basis Ihrer Einwilligung genutzt (Art. 6 Abs. 1 a) DSGVO). Die jeweilige Rechtsgrundlage finden Sie jeweils bei den Informationen zum jeweiligen Dienst.",
+        "cookieInfoConfirm": "Verstanden.",
+        "slogan": "A Clockwork Magenta",
+        "buttonStart": "Start"
+    },
+    "pageTwo": {
+        "tooltip": "Diese Fragen helfen Ihnen dabei Gleichgesinnte zu identifizieren.",
+        "flowerHeader": "Das ist ihre Blume!",
+        "questions": [
+            {
+                "question": "Welcher der folgenden Bereiche liegt Ihnen am meisten?",
+                "answers": [
+                    "Datenbanken",
+                    "Web Technologien",
+                    "UI/UX-Design",
+                    "Wirtschafts-\nwissenschaften"
+                ]
+            },
+            {
+                "question": "Welchen akademischen Grad streben Sie an?",
+                "answers": [
+                    "Bachelor",
+                    "Diplom",
+                    "Master",
+                    "Professor/Doktor"
+                ]
+            },
+            {
+                "question": "In welchem Bereich sind Sie tätig?",
+                "answers": [
+                    "Wirtschaft-\nsinformatik",
+                    "Medieninformatik",
+                    "Allgemeine Informatik",
+                    "anderer Bereich"
+                ]
+            }
+        ],
+        "buttonRepeatQuiz": "Quiz wiederholen",
+        "buttonNext": "Weiter"
+    },
+    "pageThree": {
+        "chooseProduct": "Produkt wählen",
+        "buttonChooseProduct": "Produkt wählen",
+        "dropdownPlaceholder": "Option wählen",
+        "error": "Bitte wählen Sie ein Produkt aus!"
+    },
+    "pageFour": {
+        "header": "Ihre Daten",
+        "businessCardOption": "Visitenkarte fotografieren",
+        "formOption": "Formulardaten eingeben",
+        "firstName": "Vorname *",
+        "lastName": "Nachname *",
+        "company": "Firma *",
+        "jobTitle": "Position *",
+        "email": "E-Mail",
+        "phone": "Telefon",
+        "checkboxDataStorage": "Hiermit stimme ich zu, dass meine Daten von T-Systems gespeichert werden.",
+        "takePictureAgain": "Bitte nehmen Sie erneut ein Bild auf, falls die Preview verschwommen sein sollte!",
+        "cardCheckboxError": "Checkbox nicht ausgewählt!",
+        "cardError": "Wups, versuchen Sie es erneut!",
+        "buttonConfirmOrder": "Absenden!",
+        "timeoutHeader": "Woops..",
+        "timeoutMessage": "Eingeschlafen?",
+        "formDescription": "Formular ausfüllen",
+        "cardDescription": "Visitenkarte fotografieren",
+        "firstNameError": "Ihr Name ist zu kurz",
+        "lastNameError": "Ihr Name ist zu kurz",
+        "companyError": "Ihr Firma ist zu klein",
+        "jobTitleError": "Ihr Titel ist zu kurz",
+        "formError": "Es wurden nicht alle Felder ausgefüllt"
+    },
+    "pageFive": {
+        "slogan": "Sagen Sie es durch die Blume!",
+        "staticStatus": "Ihr Status: ",
+        "statuses": [
+            "Bestellung erhalten",
+            "Bestellung erfolgreich",
+            "Sie sind auf Pos.1 der Warteliste",
+            "Sie sind auf Pos. 2 der Warteliste",
+            "Sie sind auf Pos. 3 der Warteliste",
+            "Ihr Produkt ist gerade in Produktion",
+            "Ihr Produkt ist zur Abholung bereit",
+            "Es lohnt sich nicht zu warten",
+            "Vielen Dank und viel Spaß mit Ihrem Produkt!",
+            "Ihre Daten konnten nicht validiert werden, bitte nehmen Sie Kontakt mit unseren Mitarbeitern auf!"
+        ]
+    }
+}

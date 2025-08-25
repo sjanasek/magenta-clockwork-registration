@@ -1,0 +1,93 @@
+{
+    "pageOne": {
+        "cookieInfo": "This site uses cookies. By continuing to browse this site you agree to our policies.",
+        "cookieInfoDetail": "More Details.",
+        "detailHeader": "Details",
+        "details": "Wir verwenden Cookies einerseits auf Basis von Art. 6 Abs. 1 f) DSGVO (berechtigtes Interesse an der Optimierung unserer Angebote). Bestimmte Cookies werden ausschließlich auf Basis Ihrer Einwilligung genutzt (Art. 6 Abs. 1 a) DSGVO). Die jeweilige Rechtsgrundlage finden Sie jeweils bei den Informationen zum jeweiligen Dienst.",
+        "cookieInfoConfirm": "Understood.",
+        "slogan": "A Clockwork Magenta",
+        "buttonStart": "Start"
+    },
+    "pageTwo": {
+        "tooltip": "These questions will help you to identify like-minded people.",
+        "flowerHeader": "That's your flower!",
+        "questions": [
+            {
+                "question": "Which of the following areas is the most important to you?",
+                "answers": [
+                    "Databases",
+                    "Web Technologies",
+                    "UI/UX-Design",
+                    "Economics"
+                ]
+            },
+            {
+                "question": "Which academic degree do you aspire to?",
+                "answers": [
+                    "Bachelor",
+                    "Diploma",
+                    "Master",
+                    "Professor/Doctor"
+                ]
+            },
+            {
+                "question": "In which field are you active?",
+                "answers": [
+                    "Business Informatics",
+                    "Media Informatics",
+                    "General Informatics",
+                    "Another Field"
+                ]
+            }
+        ],
+        "buttonRepeatQuiz": "Repeat",
+        "buttonNext": "Proceed"
+    },
+    "pageThree": {
+        "chooseProduct": "Choose Product",
+        "buttonChooseProduct": "Choose Product",
+        "dropdownPlaceholder": "Choose Option",
+        "error": "Please choose a product!"
+    },
+    "pageFour": {
+        "header": "Your Data",
+        "businessCardOption": "Upload business card",
+        "formOption": "Enter data",
+        "firstName": "Firstname *",
+        "lastName": "Surname *",
+        "company": "Company *",
+        "jobTitle": "Position *",
+        "email": "E-Mail",
+        "phone": "Phone",
+        "checkboxDataStorage": "Hereby I accept the business conditions of T-Systems.",
+        "takePictureAgain": "Please upload another picture if the preview is blurry!",
+        "cardCheckboxError": "Checkbox is not ticked!",
+        "cardError": "Wups, try again!",
+        "buttonConfirmOrder": "Send!",
+        "timeoutHeader": "Woops..",
+        "timeoutMessage": "AFK?",
+        "formDescription": "Enter data",
+        "cardDescription": "Upload business card",
+        "firstNameError": "Your name is too short",
+        "lastNameError": "Your name is too short",
+        "companyError": "Your company is too small",
+        "jobTitleError": "Your title is too short",
+        "formError": "Please fill out all necessary fields!"
+    },
+    "pageFive": {
+        "slogan": "Look for your fair-buddy!",
+        "staticStatus": "Product status: ",
+        "statuses": [
+            "Order received",
+            "Order successful",
+            "You are on position 1",
+            "You are on position 2",
+            "You are on position 3",
+            "Your product is in production",
+            "Your product is ready for pickup",
+            "Don't bother waiting, we can't make your product in time, sorry",
+            "Thanks and have fun with your product!",
+            "We couldn't validate your data, please talk to our staff!"
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Clockwork",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "build:visitor": "vue-cli-service build --dest ../server/public/visitor src/main.js",
+    "build:backoffice": "vue-cli-service build --dest ../server/public/backoffice src/main.js",
+    "build:sales": "vue-cli-service build --dest ../server/public/sales src/main.js",
+    "build:warehouse": "vue-cli-service build --dest ../server/public/warehouse src/main.js"
+  },
+  "dependencies": {
+    "@vue/babel-preset-app": "^3.8.0",
+    "axios": "^0.18.0",
+    "core-js": "^2.6.5",
+    "hooper": "^0.2.2",
+    "vue": "^2.6.10",
+    "vue-circle-menu": "^1.1.1",
+    "vue-js-modal": "^1.3.31",
+    "vue-pull-to": "^0.1.7",
+    "vue-router": "^3.0.6",
+    "vue-simple-search-dropdown": "^1.0.1",
+    "vue2-touch-events": "^2.0.0",
+    "vuex": "^3.1.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.7.0",
+    "@vue/cli-plugin-eslint": "^3.7.0",
+    "@vue/cli-service": "^3.7.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.16.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "vue-concise-slider": "^3.4.1",
+    "vue-template-compiler": "^2.5.21",
+    "vueperslides": "^1.19.0"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "rules": {},
+    "parserOptions": {
+      "parser": "babel-eslint"
+    }
+  },
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {}
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
+}

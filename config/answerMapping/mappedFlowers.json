@@ -1,0 +1,258 @@
+{
+    "A1_A1_A1": {
+        "img": "/img/flowers/pools/A1_A1_A1.png",
+        "parameters": "[9,6,1,5]"
+        },
+    "A1_A1_A2": {
+        "img": "/img/flowers/pools/A1_A1_A2.png",
+        "parameters": "[-6,-8,3,5]"
+        },
+    "A1_A1_A3": {
+        "img": "/img/flowers/pools/A1_A1_A3.png",
+        "parameters": "[11,-6,2,5]"
+        },
+    "A1_A1_A4": {
+        "img": "/img/flowers/pools/A1_A1_A4.png",
+        "parameters": "[-3,7,3,5]"
+        },
+    "A1_A2_A1": {
+        "img": "/img/flowers/pools/A1_A2_A1.png",
+        "parameters": "[9,-6,1,6]"
+        },
+    "A1_A2_A2": {
+        "img": "/img/flowers/pools/A1_A2_A2.png",
+        "parameters": "[3,-5,2,5]"
+    },
+    "A1_A2_A3": {
+        "img": "/img/flowers/pools/A1_A2_A3.png",
+        "parameters": "[2,5,1,5]"
+    },
+    "A1_A2_A4": {
+        "img": "/img/flowers/pools/A1_A2_A4.png",
+        "parameters": "[-1,7,1,5]"
+    },
+    "A1_A3_A1": {
+        "img": "/img/flowers/pools/A1_A3_A1.png",
+        "parameters": "[13,-6,2,4]"
+        },
+    "A1_A3_A2": {
+        "img": "/img/flowers/pools/A1_A3_A2.png",
+        "parameters": "[2,7,3,5]"
+    },
+    "A1_A3_A3": {
+        "img": "/img/flowers/pools/A1_A3_A3.png",
+        "parameters": "[-9,-10,1,6]"
+    },
+    "A1_A3_A4": {
+        "img": "/img/flowers/pools/A1_A3_A4.png",
+        "parameters": "[-3,-7,2,5]"
+    },
+    "A1_A4_A1": {
+        "img": "/img/flowers/pools/A1_A4_A1.png",
+        "parameters": "[5,8,0,6]"
+        },
+    "A1_A4_A2": {
+        "img": "/img/flowers/pools/A1_A4_A2.png",
+        "parameters": "[2,5,3,5]"
+    },
+    "A1_A4_A3": {
+        "img": "/img/flowers/pools/A1_A4_A3.png",
+        "parameters": "[-5,-5,1,4]"
+    },
+    "A1_A4_A4": {
+        "img": "/img/flowers/pools/A1_A4_A4.png",
+        "parameters": "[2,-7,2,6]"
+    },
+    "A2_A1_A1": {
+        "img": "/img/flowers/pools/A2_A1_A1.png",
+        "parameters": "[9,-12,2,1]"
+                },
+    "A2_A1_A2": {
+        "img": "/img/flowers/pools/A2_A1_A2.png",
+        "parameters": "[9,-12,3,3]"
+        },
+    "A2_A1_A3": {
+        "img": "/img/flowers/pools/A2_A1_A3.png",
+        "parameters": "[9,12,1,2]"
+        },
+    "A2_A1_A4": {
+        "img": "/img/flowers/pools/A2_A1_A4.png",
+        "parameters": "[9,11,4,4]"
+        },
+    "A2_A2_A1": {
+        "img": "/img/flowers/pools/A2_A2_A1.png",
+        "parameters": "[10,-10,2,1]"
+        },
+    "A2_A2_A2": {
+        "img": "/img/flowers/pools/A2_A2_A2.png",
+        "parameters": "[9,11,5,3]"
+    },
+    "A2_A2_A3": {
+        "img": "/img/flowers/pools/A2_A2_A3.png",
+        "parameters": "[6,11,1,2]"
+    },
+    "A2_A2_A4": {
+        "img": "/img/flowers/pools/A2_A2_A4.png",
+        "parameters": "[6,11,1,3]"
+    },
+    "A2_A3_A1": {
+        "img": "/img/flowers/pools/A2_A3_A1.png",
+        "parameters": "[9,12,2,0]"
+        },
+    "A2_A3_A2": {
+        "img": "/img/flowers/pools/A2_A3_A2.png",
+        "parameters": "[-6,11,1,2]"
+    },
+    "A2_A3_A3": {
+        "img": "/img/flowers/pools/A2_A3_A3.png",
+        "parameters": "[9,11,2,4]"
+    },
+    "A2_A3_A4": {
+        "img": "/img/flowers/pools/A2_A3_A4.png",
+        "parameters": "[-9,12,1,1]"
+    },
+    "A2_A4_A1": {
+        "img": "/img/flowers/pools/A2_A4_A1.png",
+        "parameters": "[9,12,0,2]"
+        },
+    "A2_A4_A2": {
+        "img": "/img/flowers/pools/A2_A4_A2.png",
+        "parameters": "[-9,-11,1,2]"
+    },
+    "A2_A4_A3": {
+        "img": "/img/flowers/pools/A2_A4_A3.png",
+        "parameters": "[-9,-12,2,3]"
+    },
+    "A2_A4_A4": {
+        "img": "/img/flowers/pools/A2_A4_A4.png",
+        "parameters": "[9,12,2,0]"
+    },
+    "A3_A1_A1": {
+        "img": "/img/flowers/pools/A3_A1_A1.png",
+        "parameters": "[0,10,3,3]"
+        },
+    "A3_A1_A2": {
+        "img": "/img/flowers/pools/A3_A1_A2.png",
+        "parameters": "[-2,-12,2,5]"
+        },
+    "A3_A1_A3": {
+        "img": "/img/flowers/pools/A3_A1_A3.png",
+        "parameters": "[0,-10,3,2]"
+        },
+    "A3_A1_A4": {
+        "img": "/img/flowers/pools/A3_A1_A4.png",
+        "parameters": "[1,11,5,1]"
+        },
+    "A3_A2_A1": {
+        "img": "/img/flowers/pools/A3_A2_A1.png",
+        "parameters": "[0,10,1,2]"
+        },
+    "A3_A2_A2": {
+        "img": "/img/flowers/pools/A3_A2_A2.png",
+        "parameters": "[1,-11,1,2]"
+    },
+    "A3_A2_A3": {
+        "img": "/img/flowers/pools/A3_A2_A3.png",
+        "parameters": "[1,11,1,3]"
+    },
+    "A3_A2_A4": {
+        "img": "/img/flowers/pools/A3_A2_A4.png",
+        "parameters": "[2,12,2,0]"
+    },
+    "A3_A3_A1": {
+        "img": "/img/flowers/pools/A3_A3_A1.png",
+        "parameters": "[-1,11,1,2]"
+        },
+    "A3_A3_A2": {
+        "img": "/img/flowers/pools/A3_A3_A2.png",
+        "parameters": "[-1,-11,0,1]"
+    },
+    "A3_A3_A3": {
+        "img": "/img/flowers/pools/A3_A3_A3.png",
+        "parameters": "[2,12,1,4]"
+    },
+    "A3_A3_A4": {
+        "img": "/img/flowers/pools/A3_A3_A4.png",
+        "parameters": "[1,11,1,2]"
+    },
+    "A3_A4_A1": {
+        "img": "/img/flowers/pools/A3_A4_A1.png",
+        "parameters": "[-1,11,1,0]"
+        },
+    "A3_A4_A2": {
+        "img": "/img/flowers/pools/A3_A4_A2.png",
+        "parameters": "[-2,12,0,1]"
+    },
+    "A3_A4_A3": {
+        "img": "/img/flowers/pools/A3_A4_A3.png",
+        "parameters": "[-1,-11,0,1]"
+    },
+    "A3_A4_A4": {
+        "img": "/img/flowers/pools/A3_A4_A4.png",
+        "parameters": "[-1,11,2,3]"
+    },
+    "A4_A1_A1": {
+        "img": "/img/flowers/pools/A4_A1_A1.png",
+        "parameters": "[-15,1,1,3]"
+                },
+    "A4_A1_A2": {
+        "img": "/img/flowers/pools/A4_A1_A2.png",
+        "parameters": "[-5,-5,0,5]"
+        },
+    "A4_A1_A3": {
+        "img": "/img/flowers/pools/A4_A1_A3.png",
+        "parameters": "[6,-5,3,6]"
+        },
+    "A4_A1_A4": {
+        "img": "/img/flowers/pools/A4_A1_A4.png",
+        "parameters": "[-6,5,3,5]"
+        },
+    "A4_A2_A1": {
+        "img": "/img/flowers/pools/A4_A2_A1.png",
+        "parameters": "[-6,-4,2,5]"
+        },
+    "A4_A2_A2": {
+        "img": "/img/flowers/pools/A4_A2_A2.png",
+        "parameters": "[-6,5,1,5]"
+    },
+    "A4_A2_A3": {
+        "img": "/img/flowers/pools/A4_A2_A3.png",
+        "parameters": "[-15,-1,0,3]"
+    },
+    "A4_A2_A4": {
+        "img": "/img/flowers/pools/A4_A2_A4.png",
+        "parameters": "[4,-4,1,4]"
+    },
+    "A4_A3_A1": {
+        "img": "/img/flowers/pools/A4_A3_A1.png",
+        "parameters": "[3,4,0,6]"
+        },
+    "A4_A3_A2": {
+        "img": "/img/flowers/pools/A4_A3_A2.png",
+        "parameters": "[3,-1,0,4]"
+    },
+    "A4_A3_A3": {
+        "img": "/img/flowers/pools/A4_A3_A3.png",
+        "parameters": "[10,-2,4,5]"
+    },
+    "A4_A3_A4": {
+        "img": "/img/flowers/pools/A4_A3_A4.png",
+        "parameters": "[-6,-5,2,4]"
+    },
+    "A4_A4_A1": {
+        "img": "/img/flowers/pools/A4_A4_A1.png",
+        "parameters": "[6,-4,0,3]"
+        },
+    "A4_A4_A2": {
+        "img": "/img/flowers/pools/A4_A4_A2.png",
+        "parameters": "[6,5,0,6]"
+    },
+    "A4_A4_A3": {
+        "img": "/img/flowers/pools/A4_A4_A3.png",
+        "parameters": "[14,2,3,6]"
+    },
+    "A4_A4_A4": {
+        "img": "/img/flowers/pools/A4_A4_A4.png",
+        "parameters": "[-6,-5,1,6]"
+    } 
+  }
