@@ -1,6 +1,6 @@
 # magenta-clockwork-registration
 
-This application was developed as a MVP for T-Systems as part of a university assignment.
+This application was developed as a MVP for T-Systems as part of a university assignment in 2019.
 It aims to provide access to a MySQL-DB via a REST-API and a basic in-memory-cache, build with Node, Express and Sequelize.
 Additionally there are three frontends, that access the server in a repository pattern. Each of the frontends are built as a seperate Vue.js-Application.
 
